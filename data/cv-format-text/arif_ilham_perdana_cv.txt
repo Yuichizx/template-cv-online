@@ -1,0 +1,77 @@
+Number : 081387395875
+email : arifilhamperdana88@gmail.com
+tempat tinggal: Jalan Kampung Melayu, Jakarta, 13320, Indonesia
+
+
+WORK EXPERIENCE
+
+Devops Engineer
+PT AVOWS Technologies - Penempatan di PT Bank Raya Indonesia Tbk
+Indonesia Pusat / Jakarta
+/ juli 2024 - present
+
+Devops Engineer
+PT Diksha Teknologi Indonesia - Penempatan di PT Bank Rakyat
+Indonesia Pusat / Jakarta
+/ Dec 2023 - juni 2024
+
+Devops Engineer
+Insource PT Satkomindo - Penempatan di PT Bank Rakyat Indonesia
+Pusat / Jakarta
+/ Dec 2020 - Dec 2023
+▪ Mengembangkan pipeline CI/CD otomatis untuk aplikasi web dan layanan
+backend.
+▪ menerapkan teknologi containerisasi seperti Docker dan Kubernetes untuk
+meningkatkan skalabilitas dan meningkatkan efisiensi.
+▪ Menetapkan standar tertinggi untuk jaminan kualitas kode melalui pengujian
+unit dan proses integrasi berkelanjutan.
+▪ Konfigurasi arsitektur tanpa server yang dikonfigurasi menggunakan platform
+cloud Google.
+▪ Mengeksekusi teknik pemecahan masalah komprehensif untuk issue di
+production yang terkait dengan konfigurasi atau penerapan sistem.
+▪ Berkolaborasi dengan stakeholders di berbagai tim agar berhasil menerapkan
+permintaan fitur sambil mematuhi tenggat waktu yang ketat
+Junior DevOps Engineerr
+
+
+PT Multidaya Dinamika / Jakarta / Sep 2019 - Dec 2020
+▪ membangun dan menyiapkan alat dan infrastruktur pengembangan baru.
+▪ bekerja dengan pengembang dan rekan IT lainnya untuk mengawasi rilis
+kode.
+▪ mengidentifikasi masalah teknis dan mengembangkan ci/cd dan 'perbaikan'.
+▪ Memantau jaringan, server. Membangun dan mengkonfigurasi jaringan VPN,
+Firewall, Routing, membuat jaringan baru melalui Mikrotik, Troubleshooting
+jika terjadi error pada jaringan saat monitoring.
+▪ Buat server baru berbasis container di Proxmox kemudian konfigurasikan
+agar dapat digunakan oleh developer, lakukan pemecahan masalah jika
+terjadi kesalahan pada server
+
+
+ABOUT ME
+saya devops yang berpengalaman lebih dari 5 tahun di lingkungan yang serba
+cepat dan dinamis, berdedikasi untuk menerapkan teknologi dan praktik
+mutakhir guna meningkatkan efisiensi sistem dan mempercepat kesuksesan
+bisnis. Ingin membantu Sistem meningkatkan operasinya dengan menerapkan
+pengetahuan saya tentang pipeline CI/CD, bahasa skrip, containerisasi,
+arsitektur tanpa server, dan manajemen infrastruktur cloud. Mengembangkan
+arsitektur tanpa server yang menggunakan Google Cloud dan Google
+Kubernetes Engine.
+
+COURSE
+BSDP IT Specialist DevSecOps Modul Agile Technical Excellence
+Narada Code / Dec 2023 - Dec 2023
+
+
+SKILLS
+▪ Operation system : Ubuntu , Centos , Debian, Windows Server
+▪ Cloud Server : DigitalOcean, Google Cloud Platform, Google Kubernetes
+Engine
+▪ Database : Mysql, PostgreSQL
+▪ Deployment : Docker, Docker Compose, Ansible, Jenkins, Ingress, Nginx
+Reverse
+▪ Agile framework : Jira, Slack, Kanban board
+▪ DNS : Cpanel, DNSMadeEasy, RumahWeb, Cloud Dns Google
+▪ Another skills : Proxy, Firewall, Nmap, Snort, Bash Scipting, SSL, SCP, SFTP,
+Redis, Minio, Kafka, proxy, haproxy, nginx, apache, jmeter, postman, Cloud
+Armor
+▪ Monitoring : Prometheus, Grafana, Kibana, Elasticsearch, Heartbeat
