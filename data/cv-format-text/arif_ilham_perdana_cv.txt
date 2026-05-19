@@ -6,17 +6,27 @@ tempat tinggal: Jalan Kampung Melayu, Jakarta, 13320, Indonesia
 WORK EXPERIENCE
 
 Devops Engineer
-PT AVOWS Technologies - Penempatan di PT Bank Raya Indonesia Tbk
+PT AVOWS Technologies - Project Engagement di PT Bank Raya Indonesia Tbk
 Indonesia Pusat / Jakarta
 / juli 2024 - present
+▪ Mengelola pipeline CI/CD untuk proses build, testing, dan deployment layanan
+frontend maupun backend.
+▪ Mengembangkan DevOps tools untuk code scanning, diff checking, dan
+pengamanan file rahasia.
+▪ Menerapkan Docker dan Kubernetes untuk menstandarisasi deployment aplikasi.
+▪ Mengembangkan solusi serverless di Google Cloud untuk mendukung
+skalabilitas otomatis.
+▪ Menangani issue production terkait konfigurasi dan deployment sistem.
+▪ Berkolaborasi lintas tim untuk mengimplementasikan fitur sesuai target
+timeline.
 
 Devops Engineer
-PT Diksha Teknologi Indonesia - Penempatan di PT Bank Rakyat
+PT Diksha Teknologi Indonesia - Project Engagement di PT Bank Rakyat
 Indonesia Pusat / Jakarta
 / Dec 2023 - juni 2024
 
 Devops Engineer
-Insource PT Satkomindo - Penempatan di PT Bank Rakyat Indonesia
+Insource PT Satkomindo - Project Engagement di PT Bank Rakyat Indonesia
 Pusat / Jakarta
 / Dec 2020 - Dec 2023
 ▪ Mengembangkan pipeline CI/CD otomatis untuk aplikasi web dan layanan
@@ -48,14 +58,12 @@ terjadi kesalahan pada server
 
 
 ABOUT ME
-saya devops yang berpengalaman lebih dari 5 tahun di lingkungan yang serba
-cepat dan dinamis, berdedikasi untuk menerapkan teknologi dan praktik
-mutakhir guna meningkatkan efisiensi sistem dan mempercepat kesuksesan
-bisnis. Ingin membantu Sistem meningkatkan operasinya dengan menerapkan
-pengetahuan saya tentang pipeline CI/CD, bahasa skrip, containerisasi,
-arsitektur tanpa server, dan manajemen infrastruktur cloud. Mengembangkan
-arsitektur tanpa server yang menggunakan Google Cloud dan Google
-Kubernetes Engine.
+Saya DevOps Engineer dengan pengalaman lebih dari 5 tahun dalam membangun,
+mengotomatisasi, dan mengelola infrastruktur aplikasi di lingkungan yang
+cepat dan dinamis. Berfokus pada peningkatan reliability, efisiensi
+deployment, dan skalabilitas sistem melalui pipeline CI/CD, scripting,
+containerisasi, Kubernetes, arsitektur serverless, serta manajemen
+infrastruktur cloud berbasis Google Cloud dan Google Kubernetes Engine.
 
 COURSE
 BSDP IT Specialist DevSecOps Modul Agile Technical Excellence
